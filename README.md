@@ -118,6 +118,6 @@ See `requirements.txt`. Main dependencies:
 
 ## 👤 Author
 
-**Daniel Troya** — Neural Networks, Yachay Tech University
+**Daniel Troya** — Yachay Tech University
 
 [![GitHub](https://img.shields.io/badge/github-dtpollo-black?logo=github)](https://github.com/dtpollo)
